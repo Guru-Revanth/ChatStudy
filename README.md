@@ -109,10 +109,10 @@ while True:
 
 ## OUTPUT
 ### CLIENT:
-![CLIENT1b](https://github.com/Yuvaranithulasingam/ChatStudy/assets/121418522/3f95deda-6ca6-43ac-aa9e-092e18517720)
+![1b cl](https://github.com/23013743/ChatStudy/assets/161271714/e6e4a49c-00bf-46a4-b7fc-cf92d6c7c4b7)
 
 ### SERVER:
-![SERVER1b](https://github.com/Yuvaranithulasingam/ChatStudy/assets/121418522/d6e024b2-5da1-4fa2-a5ea-c601c8e8addb)
+![1bser](https://github.com/23013743/ChatStudy/assets/161271714/9b8a6193-0a22-4f65-8a70-e98456bcffda)
 
 
 ## Result:
